@@ -5,6 +5,7 @@ void setup() {
   board = new Board();
   game = new Game();
   background(0);
+  
 }
 
 void draw() {
